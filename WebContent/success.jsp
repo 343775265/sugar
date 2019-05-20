@@ -69,4 +69,5 @@ p{
 <a href="game1.jsp" id="game1">拼图小游戏</a>
 <a href="game2.jsp" id="game2">解压小游戏</a>
 </body>
+	
 </html>
