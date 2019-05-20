@@ -9,7 +9,7 @@
 <style>
 body 
 {
-    background-image:url(img/denglu.jpg);
+    background-image:url(img/pkq.jpg);
     background-size: cover;
 }
 h2{
