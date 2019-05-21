@@ -24,7 +24,7 @@
     <img src="img/small.jpg">
     <img src="img/big.jpg">
 </div>
-<a href="success.jsp" id="rt">返回</a>
+<a href="game.jsp" id="rt">返回</a>
 <script type="text/javascript">
     document.onselectstart = new Function("return false");
     object = new Array();
