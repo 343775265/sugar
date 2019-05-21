@@ -22,22 +22,6 @@ p{
 	text-align:center;
 	color:white;
 	text-shadow:2px 2px 8px #000;}
-	 #game1{
-            position: absolute;
-            top: 60%;
-            left:2%;
-            text-decoration: none;
-            font-size: 20px;
-            color: pink;
-        }
-        #game2{
-            position: absolute;
-            top: 70%;
-            left: 2%;
-            text-decoration: none;
-            font-size: 20px;
-            color: pink;
-        }
 </style>
 </head>
 <body>
@@ -50,6 +34,7 @@ p{
     </div>
     <div>
         <ul class="nav navbar-nav">
+            <li><a class="active" href="game.jsp">游戏</a></li>
             <li><a target="_blank" href="guanyu.jsp">关于</a></li>
         </ul>
     <ul class="nav navbar-nav navbar-right">
@@ -66,8 +51,5 @@ p{
             </iframe>
             
 </center>
-<a href="game1.jsp" id="game1">拼图小游戏</a>
-<a href="game2.jsp" id="game2">解压小游戏</a>
 </body>
-	
 </html>
