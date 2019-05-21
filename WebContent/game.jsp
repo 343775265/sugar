@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>关于</title>
+<title>游戏</title>
 <!-- 引入 Bootstrap -->
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 <style>
@@ -18,6 +18,20 @@ a{
 color:white;
 text-shadow:0 0 4px #000;
 }
+    .game1{
+            font-size: 60px;
+            color: pink;
+            position: absolute;
+            top: 50%;
+            left: 40%;
+        }
+        .game2{
+            font-size: 60px;
+            color: pink;
+            position: absolute;
+            top: 70%;
+            left: 40%;
+        }
 </style>
 </head>
 <body>
@@ -35,7 +49,7 @@ text-shadow:0 0 4px #000;
     </div>
     </div>
 </nav>
-<a href="game1.jsp">拼图游戏</a>
-<a href="game2.jsp">解压游戏</a>
+<a href="game1.jsp" class="game1">拼图游戏</a>
+<a href="game2.jsp" class="game2">解压游戏</a>
 </body>
 </html>
