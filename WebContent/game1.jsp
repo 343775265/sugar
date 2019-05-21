@@ -41,7 +41,7 @@
     <b id="showall">查看原图</b>
 </div>
 <div id="show" class="shell" style="display:none;"></div>
-<a href="success.jsp" id="rt">返回</a>
+<a href="game.jsp" id="rt">返回</a>
 <script type="text/javascript">
     speller={
         init:function(n){
