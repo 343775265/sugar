@@ -42,8 +42,7 @@ text-shadow:0 0 4px #000;
     </div>
     <div>
         <ul class="nav navbar-nav">
-            <li><a href="denglu.jsp">登录</a></li>
-            <li><a href="zhuce.jsp">注册</a></li>
+            <li><a href="success.jsp">主页</a></li>
             <li class="active"><a href="game.jsp">游戏</a></li>
         </ul>
     </div>
