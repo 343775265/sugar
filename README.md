@@ -2,11 +2,11 @@
 
 ### 邓宇霆
 <p>FCC连接 https://freecodecamp.cn/343775265</P>
-<P>证书连接 http://freecodecamp.cn/343775265/front-end-certification</p>
+<P>证书连接 http://freecodecamp.cn/343775265/front-end-certification</p>(证书图片在img文件夹下）
 
 ### 邵敬
-<p>FCC连接 https://freecodecamp.cn/343775265</P>
-<P>证书连接 http://freecodecamp.cn/343775265/front-end-certification</p>
+<p>FCC连接 https://freecodecamp.cn/shaojing233</P>
+<P>证书连接 http://freecodecamp.cn/shaojing233/front-end-certification</p>(证书图片在img文件夹下）
 <h3>主要实现功能:</h3>
 <P>1、用户登录</p>
 <P>2、用户注册</p>
